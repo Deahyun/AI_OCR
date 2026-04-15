@@ -8,3 +8,8 @@ https://youtube.com/shorts/_0Bngwweimk?feature=share
 
 이 동영상에서 사용된 원본 이미지입니다.
 <img width="390" height="484" alt="가스검침기_이미지" src="https://github.com/user-attachments/assets/0a473f15-8f32-4ec2-b4fe-788f6ae7166c" />
+
+LLM 을 사용해서 기차표 예매 하는 agent 프로그램 입니다.
+
+실행 과정을 표시하는 동영상 링크입니다.
+https://www.youtube.com/watch?v=vuokYXSmWLM
